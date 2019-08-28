@@ -1,0 +1,38 @@
+Appli mobile liée à une API liée à une BDD (script BDD fourni).
+
+API utilisée par un Back en JEE:
+	- Gestion données bruts
+	- Editions PDF
+	- Génération de QRCodes (script fourni)
+
+le QRCode contient un lien vers l'appli qui se lance directement sur la vue concernée.
+
+Appli:
+	- Gestion clients
+		- Contacts
+		- Matériel réseau
+	- Consultation des données
+		- Fiche client
+		- Fiche contact (lien mailto:)
+		- Fiche matériel
+			(partagée par mail ou sms)
+	- Bonus
+		Lecture QRCode
+		Redirection fiche matériel
+
+
+1 - Maquettes
+2 - Réalisation des activités/application
+	- Jeux de données -> JSON téléchargeable
+3 - Oral -> Vendredi 12
+	- Interprétation personnelle des besoins
+	- Explications méthodes/réalisations
+	- Démonstration
+
+Objectif Lundi 08/07:
+
+Maquetage de l'appli (Gestion client - contacts):
+	Vue liste client + vue fiche client
+		- balsamiq Mockup
+		- gomockingbird.com
+API
