@@ -1,0 +1,12 @@
+<Context reloadable="true">
+
+	<Resource name="bdd/reso"
+	          auth="Container"
+	          type="javax.sql.DataSource"
+	          username="root"
+	          password="root"
+	          url="jdbc:mysql://localhost:3306/reso"
+	          driverClassName="com.mysql.jdbc.Driver" />
+
+</Context>
+
